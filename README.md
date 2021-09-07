@@ -65,6 +65,8 @@ public class Converter : IValueConverter
 
 ![Cell Animation](CellBlink.gif)
 
+KB article - [How to animate the cell to blink based on the data value in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12620/how-to-animate-the-cell-to-blink-based-on-the-data-value-in-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo 
 
 Visual Studio 2015 and above versions.
